@@ -29,7 +29,7 @@
 
 ## 界面与功能展示
 
-![main](C:\Users\32678\Desktop\JCoder\main.PNG)
+![main](https://github.com/satans404/JCoder/blob/main/main.PNG)
 
 首页
 
@@ -210,7 +210,7 @@
 
 对于单个测试文件的上传和删除可能会导致某组测试数据不完整。对于此类不完整的数据(如只有输入文件，没有输出文件)在测评时会被跳过，但文件不会被删除，仅影响配置文件。
 
-![add_data](C:\Users\32678\Desktop\JCoder\add_data.png)
+![add_data](https://github.com/satans404/JCoder/blob/main/add_data.png)
 
 注意事项:
 
@@ -268,7 +268,7 @@
 
 **submission**页面重测如下图所示：
 
-![rej](C:\Users\32678\Desktop\JCoder\rej.PNG)
+![rej](https://github.com/satans404/JCoder/blob/main/rej.PNG)
 
 使用此方法将重新测试该条记录并覆盖原先的结果。此方法不影响学生尝试次数，但会影响**学生成绩**，**题目AC率**等信息。
 
@@ -276,19 +276,19 @@
 
 **结果筛选器**如下图所示：
 
-![pre1](C:\Users\32678\Desktop\JCoder\pre1.png)
+![pre1](https://github.com/satans404/JCoder/blob/main/pre1.png)
 
 管理员可以在下拉列表中选中需要重测的状态，进行测试。也可以使用多选框快速选中对应状态。注意：多选框和下拉列表属于**联动关系**，改变相互影响。
 
 **时间筛选器**如下图所示：
 
-![pre2](C:\Users\32678\Desktop\JCoder\pre2.png)
+![pre2](https://github.com/satans404/JCoder/blob/main/pre2.png)
 
 管理员可以选择特定时间段进行重测。时间精确到秒。
 
 **用户筛选器**如下图所示：
 
-![pre3](C:\Users\32678\Desktop\JCoder\pre3.png)
+![pre3](https://github.com/satans404/JCoder/blob/main/pre3.png)
 
 管理员可以通过输入用户名筛选特定用户进行重测。此控件支持**Excel**表格粘贴，将会自动拆分去重。
 
@@ -298,13 +298,13 @@
 
 **JCoder**允许管理员创建课程以适应教学用途。现阶段，您可以在课程中**发布通知**，**布置作业**。在后期的开发过程中**JCoder**会参考**Sakai**与**Blackboard**系统，引入完整的文件服务与课程管理平台。
 
-![cour](C:\Users\32678\Desktop\JCoder\cour.PNG)
+![cour](https://github.com/satans404/JCoder/blob/main/cour.PNG)
 
 课程内部权限控制与外部稍有不同。权限暂时分为两类:**课程管理员**，**课程学生**。**课程管理员**在课程内部具有类似**全站管理员**的权限，可以**添加题目**，**创建，管理作业**，**查看统计结果**等。考虑到安全性与教学需要，目前**JCoder**只允许**全站管理员**查看代码。
 
 **JCoder**课程内部页面如下图所示：
 
-![a_](C:\Users\32678\Desktop\JCoder\a_.png)
+![a_](https://github.com/satans404/JCoder/blob/main/a_.png)
 
 **JCoder**的课程通知页面如图所示。通知主要分为**标题**，**内容**两部分。其中**内容**部分支持完整的**MarkDown**语法。
 
@@ -312,17 +312,17 @@
 
 + **课程管理员**与**全站管理员**均可在课程内部发布，管理公告。
 
-![cour_admin](C:\Users\32678\Desktop\JCoder\cour_admin.png)
+![cour_admin](https://github.com/satans404/JCoder/blob/main/cour_admin.png)
 
 + 公告发布后，管理员可通过管理按钮随时更改公告的**内容**，**标题**，**是否置顶**等特性，也可随时**删除**公告。
 
-![ann_min](C:\Users\32678\Desktop\JCoder\ann_min.png)
+![ann_min](https://github.com/satans404/JCoder/blob/main/ann_min.png)
 
-![chan_ann](C:\Users\32678\Desktop\JCoder\chan_ann.png)
+![chan_ann](https://github.com/satans404/JCoder/blob/main/chan_ann.png)
 
 + **JCoder**的公告按照发布时间**倒序**排布，置顶公告优先。
 
-![cour_info](C:\Users\32678\Desktop\JCoder\cour_info.PNG)
+![cour_info](https://github.com/satans404/JCoder/blob/main/cour_info.PNG)
 
 在**JCoder**的课程详细界面，顶部**信息栏**将显示显示课程相关信息。
 
@@ -351,7 +351,7 @@
 
 **JCoder**提供完善的题目管理功能，管理页面如下：
 
-![man_prob](C:\Users\32678\Desktop\JCoder\man_prob.PNG)
+![man_prob](https://github.com/satans404/JCoder/blob/main/man_prob.PNG)
 
 左侧为**题面编辑区**，管理员可以使用**MarkDown**语法编辑题面并提供**实时预览**。
 
@@ -361,7 +361,7 @@
 
 对于添加题目，操作方式如下：
 
-![add_p](C:\Users\32678\Desktop\JCoder\add_p.PNG)
+![add_p](https://github.com/satans404/JCoder/blob/main/add_p.PNG)
 
 管理员需要指定**Problem ID**,**题目名称**,**题目类型**与**是否匿名**。其中除**题目名称**外，其他信息一经确定无法更改。
 
